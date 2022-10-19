@@ -2,8 +2,8 @@
   "radio": [
     {
       "radio_name": "Palabra que Transforma",
-      "radio_genre": "World",
-      "radio_url": "http://144.217.83.175:8000",
+      "radio_genre": "Radio",
+      "radio_url": "http://servers58.com:8871",
       "radio_image_url": "https://i.ibb.co/JpW5mWS/radio-image.jpg",
       "background_image_url": "https://i.ibb.co/XXNDXj7/radio-background.jpg",
       "song_metadata": "true",
